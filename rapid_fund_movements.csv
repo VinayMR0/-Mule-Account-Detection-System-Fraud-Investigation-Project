@@ -1,0 +1,2 @@
+incoming_transaction,incoming_time,incoming_amount,outgoing_transaction,outgoing_time,outgoing_amount,receiver
+TXN2000348,2026-07-03 00:11:00,12081.0,TXN2000357,2026-07-03 00:20:00,78162.9,ACC100809

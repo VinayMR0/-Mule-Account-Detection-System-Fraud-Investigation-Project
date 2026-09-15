@@ -1,0 +1,1001 @@
+account_id,unique_senders,unique_receivers,incoming_count,outgoing_count,total_received,total_sent,pass_through_ratio,rapid_movements,network_risk_score,network_risk_level,network_risk_reasons
+ACC100913,28,12,28,12,159675.02,125590.09,0.79,3,100,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Repeated rapid incoming-to-outgoing movement | Potential intermediary account
+ACC100758,26,6,26,6,134049.53,122695.49,0.92,4,95,HIGH,10+ incoming counterparties | Multiple outgoing counterparties | High pass-through of received funds | Repeated rapid incoming-to-outgoing movement | Potential intermediary account
+ACC100604,29,7,29,8,158759.03,142240.81,0.9,3,95,HIGH,10+ incoming counterparties | Multiple outgoing counterparties | High pass-through of received funds | Repeated rapid incoming-to-outgoing movement | Potential intermediary account
+ACC100733,18,11,18,11,111514.77,96094.96,0.86,1,90,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Rapid incoming-to-outgoing movement | Potential intermediary account
+ACC100089,18,17,18,17,129268.04,129418.31,1.0,2,90,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Rapid incoming-to-outgoing movement | Potential intermediary account
+ACC100665,22,13,22,14,139766.63,216684.73,1.55,2,90,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Rapid incoming-to-outgoing movement | Potential intermediary account
+ACC100114,19,12,19,12,133810.42,132467.51,0.99,2,90,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Rapid incoming-to-outgoing movement | Potential intermediary account
+ACC100718,22,15,22,15,145675.92,174280.49,1.2,2,90,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Rapid incoming-to-outgoing movement | Potential intermediary account
+ACC100558,22,8,22,8,133680.74,101982.01,0.76,1,90,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Rapid incoming-to-outgoing movement | Potential intermediary account
+ACC100250,22,14,22,14,148822.77,140965.51,0.95,2,90,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Rapid incoming-to-outgoing movement | Potential intermediary account
+ACC100032,25,14,26,14,166552.89,161520.86,0.97,2,90,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Rapid incoming-to-outgoing movement | Potential intermediary account
+ACC100027,22,9,22,9,105060.94,94518.08,0.9,1,90,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Rapid incoming-to-outgoing movement | Potential intermediary account
+ACC100228,20,12,20,12,102783.35,102652.05,1.0,2,90,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Rapid incoming-to-outgoing movement | Potential intermediary account
+ACC100238,24,11,24,11,133872.66,123633.36,0.92,2,90,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Rapid incoming-to-outgoing movement | Potential intermediary account
+ACC100104,24,9,24,9,119440.77,84360.44,0.71,1,90,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Rapid incoming-to-outgoing movement | Potential intermediary account
+ACC100030,25,9,25,9,185703.92,145566.8,0.78,2,90,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Rapid incoming-to-outgoing movement | Potential intermediary account
+ACC100647,11,15,11,15,41107.33,41373.97,1.01,1,90,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Rapid incoming-to-outgoing movement | Potential intermediary account
+ACC100654,23,15,24,15,173537.98,152825.44,0.88,1,90,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Rapid incoming-to-outgoing movement | Potential intermediary account
+ACC100618,11,14,11,15,50938.03,45411.83,0.89,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100699,14,11,14,11,40323.28,28283.82,0.7,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100679,13,13,14,13,35295.36,54085.95,1.53,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100006,13,12,13,12,33089.44,28482.33,0.86,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100118,13,10,13,10,38298.78,60869.77,1.59,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100574,22,13,22,13,106342.51,103823.82,0.98,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100854,14,11,14,11,32107.22,29849.59,0.93,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100135,17,9,17,9,33880.21,29352.63,0.87,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100877,15,10,15,10,39658.74,32121.42,0.81,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100952,13,16,13,16,30374.79,64075.11,2.11,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100002,13,10,13,10,57207.77,53453.5,0.93,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100937,13,13,13,13,43106.02,75750.66,1.76,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100181,11,12,11,12,34106.59,28226.91,0.83,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100222,11,15,11,15,31439.84,29589.14,0.94,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100735,11,17,11,17,54053.07,56718.51,1.05,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100720,10,13,10,13,35435.29,42106.4,1.19,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100861,11,10,11,10,35036.09,28857.94,0.82,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100183,10,16,11,16,38010.41,68556.44,1.8,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100142,15,13,15,13,110511.1,103857.63,0.94,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100641,13,13,13,13,30378.2,30971.2,1.02,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100058,10,9,10,9,37797.98,57531.04,1.52,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100223,24,13,24,13,141212.05,135256.28,0.96,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100954,15,10,16,10,31321.94,32369.22,1.03,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100281,21,11,21,11,176637.91,142541.0,0.81,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100989,10,12,10,12,33924.79,26733.07,0.79,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100454,14,12,14,12,32151.5,38084.01,1.18,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100411,12,14,12,14,40616.71,52529.25,1.29,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100805,17,15,17,15,45921.12,50085.46,1.09,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100737,11,14,11,14,35576.3,56889.56,1.6,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100000,13,10,13,10,32790.65,23055.79,0.7,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100713,12,13,12,13,44721.31,33103.93,0.74,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100784,11,17,11,17,74858.73,75831.0,1.01,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100967,10,8,10,9,31533.48,32792.71,1.04,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100349,13,13,13,13,31722.09,41353.49,1.3,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100003,14,14,14,14,38701.81,33831.86,0.87,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100982,15,9,15,9,35916.32,28022.29,0.78,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100049,17,11,18,11,32368.94,48061.53,1.48,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100095,23,13,23,14,122828.85,105777.92,0.86,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100123,11,13,11,13,48951.92,49060.62,1.0,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100767,14,12,14,13,38191.96,35374.73,0.93,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100328,13,13,13,13,31280.87,58919.03,1.88,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100759,26,9,27,9,152792.44,114196.77,0.75,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100375,12,8,12,8,30873.62,34062.92,1.1,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100197,16,15,16,15,53980.52,38111.57,0.71,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100983,12,11,13,11,31475.38,24680.24,0.78,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100381,10,14,10,14,37913.7,27469.16,0.72,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100152,13,15,13,15,38906.13,37567.28,0.97,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100625,11,16,12,16,32742.21,64165.27,1.96,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100777,14,14,14,14,31866.67,28678.93,0.9,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100016,12,12,12,12,36679.5,28865.12,0.79,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100635,15,8,15,8,35536.65,38228.48,1.08,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100969,13,13,13,13,43302.59,47572.84,1.1,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100715,14,12,14,13,37296.68,38982.7,1.05,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100422,10,16,10,16,43130.79,46215.02,1.07,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100815,10,11,10,11,30887.54,23964.07,0.78,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100648,13,16,13,16,39374.44,50575.37,1.28,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100369,12,8,12,8,30068.15,21446.94,0.71,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100515,13,9,13,9,38491.98,34936.62,0.91,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100754,20,9,21,9,153891.01,116044.18,0.75,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100402,12,11,12,11,46490.26,44105.12,0.95,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100435,14,11,14,11,46498.27,132437.85,2.85,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100519,14,12,14,12,40959.16,51089.12,1.25,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100322,12,8,12,8,32231.32,30366.28,0.94,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100887,20,14,21,14,31832.2,44644.64,1.4,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100447,13,10,14,10,39102.36,53155.92,1.36,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100368,10,10,10,10,38428.03,32362.76,0.84,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100432,12,6,12,6,68700.84,76512.72,1.11,1,80,HIGH,10+ incoming counterparties | Multiple outgoing counterparties | High pass-through of received funds | Rapid incoming-to-outgoing movement | Potential intermediary account
+ACC100966,10,14,10,14,48824.87,43633.53,0.89,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100616,19,11,20,11,88922.73,69671.17,0.78,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100025,16,18,16,18,103015.25,117445.61,1.14,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100129,11,14,11,14,32493.09,36139.0,1.11,0,80,HIGH,10+ incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100102,9,16,9,16,50345.68,43555.86,0.87,0,70,HIGH,Multiple incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100888,9,10,9,10,74949.11,52649.13,0.7,0,70,HIGH,Multiple incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100825,7,13,7,13,31374.5,31792.96,1.01,0,70,HIGH,Multiple incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100835,9,13,9,13,32372.77,25103.43,0.78,0,70,HIGH,Multiple incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100692,17,7,17,7,86958.61,97230.24,1.12,0,70,HIGH,10+ incoming counterparties | Multiple outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100956,18,7,18,7,34812.81,33060.95,0.95,0,70,HIGH,10+ incoming counterparties | Multiple outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100303,8,11,8,11,34545.72,43240.71,1.25,0,70,HIGH,Multiple incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100617,7,15,7,15,33007.18,37382.79,1.13,0,70,HIGH,Multiple incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100096,9,16,9,16,31086.98,32727.62,1.05,0,70,HIGH,Multiple incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100517,17,7,17,7,99338.44,88881.68,0.89,0,70,HIGH,10+ incoming counterparties | Multiple outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100358,9,14,9,14,32690.56,41436.18,1.27,0,70,HIGH,Multiple incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100518,8,12,8,12,38347.44,30367.26,0.79,0,70,HIGH,Multiple incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100298,13,7,13,7,35940.96,36394.86,1.01,0,70,HIGH,10+ incoming counterparties | Multiple outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100085,7,14,7,14,42521.51,54750.37,1.29,0,70,HIGH,Multiple incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100360,9,12,9,12,35182.83,26452.83,0.75,0,70,HIGH,Multiple incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100325,9,9,9,9,39770.09,41774.57,1.05,0,70,HIGH,Multiple incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100290,14,7,14,7,36049.37,37372.06,1.04,0,70,HIGH,10+ incoming counterparties | Multiple outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100210,8,12,8,12,38407.06,34908.29,0.91,0,70,HIGH,Multiple incoming counterparties | 8+ outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100251,18,7,18,7,51105.87,40646.8,0.8,0,70,HIGH,10+ incoming counterparties | Multiple outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100221,11,12,11,12,19556.74,27253.69,1.39,1,65,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Rapid incoming-to-outgoing movement | Potential intermediary account
+ACC100054,13,15,13,15,20866.08,32316.81,1.55,1,65,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Rapid incoming-to-outgoing movement | Potential intermediary account
+ACC100203,26,14,27,14,150959.17,103249.37,0.68,1,65,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Rapid incoming-to-outgoing movement | Potential intermediary account
+ACC100801,12,9,12,9,25479.79,16729.67,0.66,1,65,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Rapid incoming-to-outgoing movement | Potential intermediary account
+ACC100398,15,11,15,11,19299.88,28249.96,1.46,1,65,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Rapid incoming-to-outgoing movement | Potential intermediary account
+ACC100807,8,6,8,6,34098.76,28766.11,0.84,0,60,MEDIUM,Multiple incoming counterparties | Multiple outgoing counterparties | High pass-through of received funds | Potential intermediary account
+ACC100847,12,12,12,12,18824.02,34940.41,1.86,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100875,11,10,11,10,23821.66,12468.88,0.52,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100917,11,13,11,13,11376.23,21391.9,1.88,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100393,11,14,11,14,24093.47,74060.66,3.07,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100830,12,16,12,16,19336.06,65118.39,3.37,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100329,14,10,14,10,11825.99,23328.8,1.97,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100013,12,10,12,10,14467.84,22471.91,1.55,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100524,12,10,12,10,27173.38,22955.5,0.84,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100716,15,8,15,8,18588.11,10774.95,0.58,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100708,11,10,11,10,18017.05,17704.23,0.98,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100408,16,9,16,9,18830.73,18491.08,0.98,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100258,13,12,13,12,14308.51,31446.4,2.2,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100157,12,15,12,15,15853.38,32968.93,2.08,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100670,12,11,12,11,17283.67,33332.44,1.93,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100939,11,10,11,10,21493.73,50274.04,2.34,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100532,12,8,12,8,25393.96,20627.58,0.81,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100248,10,11,10,11,12267.51,39673.47,3.23,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100010,11,15,11,15,27012.74,29985.02,1.11,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100732,10,17,10,17,18964.51,56241.59,2.97,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100105,13,11,13,11,19400.66,54380.59,2.8,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100237,13,8,13,8,19835.15,10582.26,0.53,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100081,14,8,14,8,35371.91,18451.73,0.52,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100991,12,8,12,8,17057.11,26405.73,1.55,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100856,10,11,10,11,24711.35,12535.12,0.51,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100356,11,10,11,10,13419.23,14823.58,1.1,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100430,10,12,10,12,17819.23,25592.82,1.44,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100296,13,8,13,8,10877.92,13462.39,1.24,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100790,12,15,12,15,16787.45,13049.5,0.78,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100800,11,9,11,9,11945.3,10212.27,0.85,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100268,11,15,11,15,14678.16,46573.29,3.17,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100382,12,17,12,18,18758.88,26275.12,1.4,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100137,11,13,11,14,27971.63,34249.79,1.22,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100052,11,13,11,13,15212.2,17996.64,1.18,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100876,10,14,11,14,22835.4,33657.09,1.47,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100404,11,11,11,11,22649.86,42792.65,1.89,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100984,13,10,13,11,25831.42,25270.4,0.98,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100279,11,8,11,8,13614.85,11002.43,0.81,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100624,10,17,10,18,12790.25,72927.24,5.7,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100783,11,12,11,12,23299.52,35923.57,1.54,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100849,13,8,13,8,30950.25,17858.84,0.58,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100663,14,12,14,12,9683.9,14991.76,1.55,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100563,11,17,11,17,22822.7,38708.9,1.7,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100511,11,13,11,13,26894.77,28078.79,1.04,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100165,13,11,13,11,28511.52,21026.43,0.74,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100724,12,8,12,8,26697.71,19797.78,0.74,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100507,13,11,13,11,19528.1,14895.15,0.76,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100678,11,9,11,9,28996.72,20096.88,0.69,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100948,10,13,10,13,9946.84,40209.01,4.04,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100317,11,10,11,10,27390.95,26156.96,0.95,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100007,10,10,10,10,27843.56,21154.43,0.76,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100193,10,12,10,12,21500.33,34169.01,1.59,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100539,10,11,10,11,12612.74,21680.27,1.72,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100400,18,12,18,12,18014.5,40837.59,2.27,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100418,10,11,10,11,13400.6,18458.38,1.38,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100862,13,9,13,9,29751.81,24805.62,0.83,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100177,12,12,13,12,20455.81,28674.8,1.4,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100770,12,9,12,9,20456.69,14600.49,0.71,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100773,10,10,10,10,20835.37,21038.42,1.01,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100851,14,13,14,13,16926.46,18370.15,1.09,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100312,11,10,11,11,22363.41,33943.34,1.52,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100520,10,11,10,11,27898.71,25331.5,0.91,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100388,10,13,10,13,28421.87,30508.99,1.07,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100902,10,8,10,8,18598.86,18133.65,0.97,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100410,13,10,13,10,18065.96,18008.1,1.0,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100139,12,13,13,13,34793.45,22108.61,0.64,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100763,10,11,10,11,18178.7,23482.5,1.29,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100909,13,14,13,14,28952.34,29541.38,1.02,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100841,10,10,11,10,17043.31,12559.95,0.74,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100738,15,12,15,12,43266.38,25175.94,0.58,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100192,11,12,11,12,18313.39,16347.41,0.89,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100535,12,17,12,17,68710.05,36815.65,0.54,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100764,10,12,10,12,15813.59,21707.91,1.37,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100390,13,12,13,12,25313.73,39102.74,1.54,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100859,12,13,12,13,42476.74,28924.79,0.68,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100057,10,8,10,8,11940.7,24036.99,2.01,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100490,12,13,13,14,24486.76,37295.1,1.52,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100080,12,8,12,8,13645.13,29217.48,2.14,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100649,12,11,12,11,28412.72,28533.23,1.0,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100673,15,9,15,9,18961.15,25866.66,1.36,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100506,10,12,10,12,14345.79,40160.98,2.8,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100394,11,10,11,10,22015.03,25554.49,1.16,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100288,11,13,11,13,10776.11,58402.86,5.42,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100546,12,10,12,10,21984.87,13020.78,0.59,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100768,13,12,13,12,17175.68,19824.66,1.15,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100591,14,10,14,10,24429.25,12681.6,0.52,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100814,10,8,10,8,27289.82,20361.15,0.75,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100806,10,21,10,21,10266.16,63166.48,6.15,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100986,15,10,15,10,23901.96,49938.01,2.09,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100569,17,14,17,14,56360.89,34845.91,0.62,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100146,11,14,11,14,23534.59,27820.32,1.18,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100878,10,10,10,10,18738.28,25646.5,1.37,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100316,10,13,10,13,13698.47,43880.88,3.2,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100047,10,11,10,11,6468.54,20784.67,3.21,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100345,12,12,12,12,26089.82,20272.9,0.78,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100406,13,11,13,11,26843.56,41889.67,1.56,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100407,13,10,13,11,21449.28,33338.62,1.55,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100412,10,10,10,10,22357.6,20340.4,0.91,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100871,10,11,10,11,24545.53,20361.52,0.83,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100743,12,11,12,12,26852.66,34689.81,1.29,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100788,11,12,11,12,20175.24,19661.38,0.97,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100689,12,12,12,12,22391.86,12941.37,0.58,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100978,14,17,14,17,21762.58,22037.99,1.01,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100327,15,12,16,12,22667.12,25654.56,1.13,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100831,13,11,13,11,25573.75,16396.95,0.64,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100217,12,8,12,8,19204.76,24758.09,1.29,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100255,12,12,12,12,27857.76,29482.43,1.06,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100493,11,17,11,17,28920.11,41832.59,1.45,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100645,14,12,14,12,32467.8,17263.15,0.53,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100566,10,12,10,12,20880.96,24465.64,1.17,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100962,10,12,10,12,24744.79,25015.04,1.01,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100547,11,13,11,13,16333.11,53060.54,3.25,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100341,14,13,14,13,25083.79,36046.06,1.44,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100038,14,10,14,11,15177.96,23140.64,1.52,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100848,10,9,10,9,17202.33,12426.63,0.72,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100600,13,12,13,12,23939.65,40952.41,1.71,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100044,14,14,14,16,11377.15,29340.05,2.58,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100113,11,16,11,16,23277.07,27633.44,1.19,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100922,10,8,10,8,33422.14,21930.9,0.66,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100494,11,10,11,10,19106.75,15192.67,0.8,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100646,15,11,16,11,29001.26,23502.66,0.81,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100170,12,8,12,8,30890.88,18337.78,0.59,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100120,11,12,11,13,25136.3,36597.38,1.46,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100340,10,12,10,13,27594.81,27316.51,0.99,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100041,11,9,11,9,13679.3,18591.41,1.36,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100940,15,14,15,14,22782.99,27151.87,1.19,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100581,11,11,11,11,15542.47,38881.09,2.5,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100224,10,13,10,13,14245.91,22056.6,1.55,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100108,12,12,13,12,16400.69,39062.88,2.38,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100415,14,12,14,12,23970.54,20719.81,0.86,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100005,11,10,11,10,19990.22,26704.38,1.34,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100130,10,9,10,9,23941.16,27281.53,1.14,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100644,13,10,13,10,20411.69,23122.72,1.13,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100860,9,11,9,11,19760.3,37758.29,1.91,1,55,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Rapid incoming-to-outgoing movement | Potential intermediary account
+ACC100869,10,10,10,10,14815.91,27386.56,1.85,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100257,16,16,16,16,27111.15,50580.68,1.87,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100143,14,11,14,11,23029.81,38735.77,1.68,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100808,10,16,10,16,18444.44,24710.34,1.34,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100084,11,11,11,11,23254.44,21095.23,0.91,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100972,12,11,12,11,29164.74,26194.02,0.9,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100256,12,9,12,10,19026.76,40140.61,2.11,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100915,10,13,10,13,20885.49,43081.68,2.06,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100824,10,9,10,9,16579.16,25589.51,1.54,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100573,11,10,11,10,27337.9,32635.2,1.19,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100236,10,12,10,12,16260.79,35867.97,2.21,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100846,11,8,11,8,22286.84,18036.81,0.81,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100677,12,16,12,16,21045.35,24459.28,1.16,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100378,12,9,13,9,29694.03,25858.62,0.87,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100741,16,12,16,12,24800.24,60656.37,2.45,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100903,10,14,10,14,16469.04,49907.89,3.03,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100529,14,11,14,11,40892.48,23279.16,0.57,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100060,11,13,11,13,17240.66,41405.78,2.4,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100865,13,11,13,11,16486.83,24467.1,1.48,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100857,12,9,12,9,19078.33,11179.13,0.59,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100280,10,14,11,14,17411.7,25744.14,1.48,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100655,13,13,13,13,18318.99,72971.47,3.98,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100474,12,14,13,14,7416.33,44774.95,6.04,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100630,11,10,11,10,25001.13,15328.1,0.61,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100472,10,12,10,12,19832.98,26861.43,1.35,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100204,15,8,15,8,25642.36,23024.42,0.9,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100365,12,10,12,10,36626.06,18721.44,0.51,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100928,12,9,12,9,24123.7,16265.59,0.67,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100307,15,15,15,15,58444.33,32256.11,0.55,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100608,15,11,15,12,21758.65,25809.6,1.19,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100746,14,14,14,14,13137.07,27336.31,2.08,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100344,10,9,10,9,26517.9,18108.66,0.68,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100930,13,8,13,8,9508.64,18360.12,1.93,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100167,14,15,14,15,27168.5,31729.86,1.17,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100348,13,14,13,14,34090.57,22435.88,0.66,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100827,11,8,11,8,19263.5,14421.32,0.75,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100512,10,9,10,9,34399.06,20846.61,0.61,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100387,10,9,10,9,15019.4,20929.47,1.39,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100755,11,8,11,8,21509.2,14996.47,0.7,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100766,12,9,12,9,19238.42,21005.08,1.09,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100473,14,14,14,14,28414.66,36728.03,1.29,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100816,13,15,13,15,19588.87,27819.41,1.42,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100145,17,13,17,13,21980.56,34484.24,1.57,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100908,10,16,10,16,16741.02,23564.16,1.41,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100585,12,12,12,13,49146.94,26688.16,0.54,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100541,18,13,18,13,43094.05,24150.18,0.56,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100229,19,13,19,13,62790.39,31900.3,0.51,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100069,11,12,11,12,14860.22,24329.81,1.64,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100843,12,9,12,9,20177.04,16383.11,0.81,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100531,12,11,12,11,42627.77,28418.97,0.67,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100681,14,12,14,12,37850.79,19651.59,0.52,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100420,11,12,12,13,24412.08,37498.6,1.54,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100813,13,12,13,12,18616.34,22090.09,1.19,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100734,17,13,17,13,29861.02,31068.31,1.04,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100842,10,8,10,8,15341.57,21435.36,1.4,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100046,13,12,13,13,29368.93,20958.5,0.71,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100578,10,10,10,10,30571.45,15539.18,0.51,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100936,11,12,11,12,17677.31,32908.74,1.86,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100992,17,8,17,8,27935.73,16924.72,0.61,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100676,12,8,12,8,33941.94,17166.09,0.51,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100306,11,11,11,11,21807.13,31910.93,1.46,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100779,10,7,10,7,18699.7,19482.74,1.04,1,55,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Rapid incoming-to-outgoing movement | Potential intermediary account
+ACC100612,12,13,12,13,18134.57,46760.41,2.58,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100994,11,8,12,8,17718.56,53571.78,3.02,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100068,10,13,11,13,19653.62,33580.27,1.71,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100459,12,12,12,12,15460.54,42838.34,2.77,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100850,10,13,10,13,21435.81,60507.56,2.82,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100629,10,12,11,12,14989.83,31933.09,2.13,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100445,20,14,20,14,54522.5,35237.08,0.65,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100664,10,12,10,12,25719.41,46941.26,1.83,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100787,12,8,12,8,6799.29,10291.17,1.51,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100640,13,10,13,10,25496.29,71622.09,2.81,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100240,13,8,13,8,27692.91,37347.56,1.35,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100961,10,14,10,14,25499.4,20078.89,0.79,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100357,10,9,10,9,42079.35,26985.45,0.64,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100488,13,12,13,12,12451.77,47350.95,3.8,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100164,10,11,10,11,8665.1,35982.75,4.15,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100059,10,8,10,8,24543.51,18745.77,0.76,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100674,13,12,13,12,33561.28,20979.0,0.63,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100440,12,12,12,12,14296.06,31878.62,2.23,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100401,11,13,11,13,12676.45,18091.13,1.43,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100117,10,12,10,12,9866.27,26422.12,2.68,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100239,10,8,10,8,44680.41,27133.95,0.61,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100559,12,10,12,10,19621.61,26131.32,1.33,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100704,20,12,20,12,36910.94,23745.81,0.64,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100929,10,16,10,16,18670.74,41674.19,2.23,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100753,13,9,13,9,23440.16,14050.79,0.6,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100756,13,11,13,11,28370.55,24518.25,0.86,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100434,10,12,10,12,23083.1,24352.5,1.05,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100083,10,12,10,12,17788.56,12972.67,0.73,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100880,11,9,11,9,29618.18,60613.03,2.05,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100653,14,8,14,8,30744.69,16638.83,0.54,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100613,13,14,13,14,16796.52,19552.67,1.16,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100852,12,9,12,9,36399.43,19389.96,0.53,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100675,11,10,11,10,17928.02,19409.01,1.08,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100959,10,10,10,10,14790.91,23552.12,1.59,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100318,12,10,12,10,49032.15,29762.02,0.61,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100726,11,10,11,10,27541.35,36600.25,1.33,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100682,15,13,15,13,24322.42,28295.1,1.16,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100776,11,12,11,12,14262.4,21082.12,1.48,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100926,10,8,10,8,17117.37,23382.89,1.37,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100194,17,14,17,14,65006.26,41054.92,0.63,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100018,11,14,11,14,13792.86,27588.5,2.0,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100543,11,14,11,14,15883.33,47568.04,2.99,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100998,13,9,13,9,13026.1,13771.65,1.06,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100911,12,16,12,16,24078.89,44776.9,1.86,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100086,16,9,16,9,46270.96,26455.78,0.57,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100837,12,10,12,10,23115.45,19505.8,0.84,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100728,11,10,11,10,35450.55,21671.86,0.61,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100015,11,11,12,11,27662.03,39555.03,1.43,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100672,12,12,12,12,25843.42,33072.44,1.28,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100882,12,8,12,8,15437.33,20594.77,1.33,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100932,10,8,10,8,23238.31,13601.97,0.59,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100150,10,13,10,13,17771.59,33458.45,1.88,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100414,15,12,15,13,20429.63,28236.6,1.38,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100468,13,11,13,11,55895.0,28631.26,0.51,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100151,10,8,10,8,22214.87,15354.12,0.69,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100464,11,12,11,12,10727.51,47567.2,4.43,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100359,11,11,11,11,17766.13,11319.23,0.64,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100180,11,10,11,10,17341.36,20187.49,1.16,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100029,10,9,10,10,19706.07,15510.87,0.79,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100271,10,8,10,8,20103.22,28744.3,1.43,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100668,10,10,10,10,25926.94,14484.16,0.56,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100335,10,12,10,12,8898.82,38141.86,4.29,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100110,10,8,10,8,19163.88,38726.93,2.02,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100597,10,17,10,17,20968.47,21613.07,1.03,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100886,14,14,14,14,27369.35,36192.82,1.32,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100253,11,8,11,8,20872.38,25434.42,1.22,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100342,10,11,10,11,14892.11,23402.71,1.57,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100367,12,10,12,10,16821.15,26356.34,1.57,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100386,15,13,16,13,38866.42,20359.43,0.52,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100598,10,8,10,8,14081.31,9928.5,0.71,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100082,10,8,10,8,36150.84,24710.41,0.68,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100171,11,9,11,9,51662.19,34716.19,0.67,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100706,13,10,13,10,18541.85,20856.61,1.12,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100301,13,11,13,11,17061.76,64605.76,3.79,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100703,13,14,13,14,24512.22,21041.6,0.86,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100548,10,10,10,10,20090.26,19079.29,0.95,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100660,14,13,14,13,27906.71,44475.27,1.59,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100826,14,16,14,17,29074.29,28721.53,0.99,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100727,16,15,16,15,24070.14,46682.4,1.94,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100571,10,13,10,13,16243.52,25240.27,1.55,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100583,11,13,11,13,52477.15,33545.66,0.64,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100588,14,10,15,10,22075.16,20405.28,0.92,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100918,10,13,10,13,11449.22,19433.72,1.7,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100078,13,12,13,12,18709.1,24693.48,1.32,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100638,11,8,11,8,14950.19,12120.29,0.81,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100669,11,12,11,12,26979.38,21016.85,0.78,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100446,11,14,11,14,23719.86,26398.75,1.11,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100958,12,12,12,13,25535.0,19174.38,0.75,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100714,13,14,13,14,18686.46,23832.38,1.28,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100372,12,13,12,13,16149.55,16108.91,1.0,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100284,11,16,11,16,20666.46,39129.47,1.89,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100138,10,9,10,9,24484.25,24540.01,1.0,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100215,13,9,14,10,15372.5,17496.43,1.14,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100974,10,10,10,11,30492.76,19570.34,0.64,0,55,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100711,17,19,17,19,153849.33,64849.69,0.42,1,50,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties | Rapid incoming-to-outgoing movement
+ACC100163,9,9,9,9,17992.77,109135.51,6.07,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100614,6,11,6,12,30172.75,15592.29,0.52,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100981,7,12,7,12,16540.92,25014.57,1.51,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100479,8,8,8,8,10488.2,15829.98,1.51,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100564,16,7,16,7,14121.97,9917.41,0.7,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100405,8,10,8,10,9279.23,26048.89,2.81,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100074,12,4,12,4,14582.47,9038.92,0.62,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100093,7,9,7,9,13233.15,26302.24,1.99,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100022,8,12,8,12,13096.6,16466.49,1.26,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100864,8,10,8,10,9232.88,23545.11,2.55,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100560,8,12,8,12,20154.14,45407.03,2.25,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100853,8,14,8,14,8652.68,24218.64,2.8,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100775,7,10,7,10,9349.98,19835.44,2.12,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100009,8,8,8,8,15966.41,22581.17,1.41,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100116,8,11,8,11,15157.0,13608.34,0.9,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100748,9,10,9,10,25126.09,17710.42,0.7,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100048,10,7,10,7,19023.74,18404.87,0.97,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100652,6,11,6,11,12887.34,16184.56,1.26,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100373,9,15,9,15,15679.91,19758.83,1.26,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100594,9,10,9,10,26164.56,13834.68,0.53,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100461,9,12,9,12,26555.64,23683.49,0.89,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100667,8,11,8,11,30051.08,19716.68,0.66,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100216,8,13,8,13,9698.78,31643.5,3.26,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100891,9,12,9,13,29944.99,35051.25,1.17,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100829,9,8,9,8,17802.86,24429.14,1.37,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100945,8,16,8,16,23773.9,43737.68,1.84,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100489,9,11,9,11,18639.24,20474.57,1.1,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100935,6,11,6,11,7616.1,20672.25,2.71,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100705,9,9,9,9,20713.27,16945.79,0.82,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100028,9,13,9,13,11425.56,20538.81,1.8,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100155,8,9,8,9,8663.42,24735.18,2.86,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100149,6,11,6,11,4162.54,19568.17,4.7,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100026,8,16,8,16,21320.52,38883.06,1.82,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100460,5,11,5,11,4733.53,34489.82,7.29,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100107,7,9,7,10,6480.99,11526.57,1.78,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100723,8,8,8,8,16434.27,25191.68,1.53,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100750,7,8,7,8,25044.79,27193.43,1.09,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100995,6,10,6,10,18123.62,20200.24,1.11,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100291,5,16,5,16,4996.51,44550.7,8.92,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100606,6,8,6,8,16812.4,13247.41,0.79,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100021,9,11,9,11,9596.76,32862.93,3.42,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100363,7,10,7,10,13101.63,60859.16,4.65,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100449,9,14,9,14,24107.45,37337.99,1.55,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100650,9,10,9,10,24447.87,16620.42,0.68,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100033,8,11,8,11,15334.8,31322.73,2.04,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100701,6,14,6,14,6726.83,27580.65,4.1,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100169,9,8,9,8,7181.79,38100.86,5.31,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100938,5,12,5,12,3687.95,80862.56,21.93,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100795,8,8,8,8,18246.14,27592.64,1.51,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100094,9,12,9,12,27318.9,42675.46,1.56,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100124,6,10,6,10,4391.99,19766.29,4.5,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100799,5,12,5,12,10291.27,30963.85,3.01,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100722,6,10,6,10,13745.84,19170.97,1.39,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100632,9,11,9,11,14631.22,47964.68,3.28,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100895,6,17,6,17,20503.02,36587.16,1.78,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100710,13,7,13,8,36701.46,20443.97,0.56,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100064,12,5,12,5,25525.26,15518.95,0.61,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100265,7,12,7,12,13327.65,28322.8,2.13,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100431,6,13,6,13,7404.83,39391.05,5.32,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100465,8,11,8,11,8335.92,42135.59,5.05,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100122,7,9,7,9,8953.79,25045.79,2.8,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100313,6,15,6,15,10956.87,29202.84,2.67,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100062,7,16,7,16,11444.44,23970.21,2.09,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100220,9,9,9,9,16749.86,18519.59,1.11,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100683,8,10,8,10,19247.82,28807.46,1.5,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100323,12,7,12,7,18964.88,25496.78,1.34,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100698,5,8,5,8,5887.92,15684.78,2.66,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100421,9,12,9,12,8013.83,14266.59,1.78,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100076,6,12,6,12,10899.0,17056.4,1.56,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100481,7,13,7,13,9224.73,21417.61,2.32,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100274,7,8,7,8,22281.74,24245.98,1.09,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100949,7,8,7,8,11897.71,20239.22,1.7,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100147,6,11,6,11,8061.75,28670.62,3.56,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100844,10,7,10,7,12681.2,27395.32,2.16,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100695,7,14,7,14,10983.34,40820.05,3.72,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100300,6,18,6,19,9884.26,31935.53,3.23,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100457,6,11,6,11,9127.19,12071.3,1.32,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100172,9,15,9,15,28331.83,28616.86,1.01,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100097,7,11,7,11,14255.95,23570.29,1.65,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100964,9,8,9,8,8810.21,11943.77,1.36,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100186,9,11,9,11,10101.27,15551.67,1.54,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100534,9,9,9,9,17238.32,15906.66,0.92,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100707,9,10,9,10,18134.15,19792.24,1.09,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100885,6,14,6,14,7309.89,32187.92,4.4,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100527,6,12,6,12,6732.85,20142.12,2.99,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100774,7,13,7,13,14890.2,52954.34,3.56,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100419,5,8,5,8,4764.33,14152.2,2.97,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100685,5,11,5,11,14839.98,23083.21,1.56,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100642,7,15,7,15,13395.27,11968.76,0.89,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100379,8,12,8,12,12731.69,23860.09,1.87,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100331,8,8,8,8,20009.85,10308.69,0.52,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100565,6,12,6,12,23861.88,20021.58,0.84,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100973,6,13,6,13,10102.56,36420.33,3.61,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100070,17,6,17,6,43631.41,22083.2,0.51,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100523,8,12,8,12,30098.78,17721.62,0.59,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100315,5,12,6,12,2025.55,40556.64,20.02,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100719,9,9,9,9,8383.2,11933.12,1.42,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100370,6,14,7,14,14855.99,36837.29,2.48,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100552,11,6,11,6,29177.11,18071.82,0.62,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100126,10,7,10,7,16637.19,12120.15,0.73,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100101,8,10,8,10,11632.58,15536.01,1.34,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100092,8,12,8,13,6266.2,30498.78,4.87,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100166,9,8,9,8,8825.84,17237.28,1.95,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100615,6,10,6,10,13191.59,16722.54,1.27,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100631,8,9,8,10,13555.24,27388.59,2.02,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100622,5,11,5,11,6597.97,47282.35,7.17,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100782,9,11,9,11,24715.3,34238.53,1.39,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100066,13,6,13,6,19403.11,28090.94,1.45,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100796,10,6,10,6,16322.48,14274.91,0.87,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100483,9,8,9,8,33037.21,16948.77,0.51,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100100,6,10,6,10,9657.87,10133.46,1.05,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100072,8,9,8,9,12282.81,37658.37,3.07,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100103,12,6,12,6,22371.38,17803.1,0.8,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100898,5,16,5,17,9687.26,43528.15,4.49,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100450,9,12,9,12,27895.29,19918.36,0.71,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100020,9,12,9,12,19521.25,28299.53,1.45,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100499,11,4,11,4,17961.72,9994.15,0.56,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100556,9,9,9,9,9754.85,21240.94,2.18,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100957,7,13,7,13,15900.95,12648.17,0.8,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100584,7,11,7,11,24355.06,24200.95,0.99,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100819,5,9,5,9,13260.69,19825.73,1.5,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100798,8,15,8,15,9713.31,36757.68,3.78,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100498,7,12,7,12,5599.14,47033.78,8.4,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100943,9,13,9,13,12686.73,22942.99,1.81,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100362,7,9,7,9,20434.2,30270.52,1.48,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100283,8,9,8,9,9239.69,10713.39,1.16,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100039,7,10,7,10,9044.86,17944.38,1.98,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100293,5,8,5,8,12785.16,12968.72,1.01,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100820,9,16,9,16,23628.87,36021.37,1.52,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100115,8,14,8,14,11760.25,68397.56,5.82,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100579,8,11,8,11,13552.2,30981.47,2.29,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100295,5,11,5,11,10218.66,31067.45,3.04,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100492,9,15,9,15,17783.25,71234.44,4.01,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100602,9,13,10,14,13936.51,27336.44,1.96,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100700,9,9,9,9,26632.29,17610.23,0.66,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100212,15,6,15,6,24314.52,13467.18,0.55,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100697,7,15,7,15,16220.88,27962.23,1.72,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100491,8,16,8,16,10380.95,43275.73,4.17,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100671,7,9,7,9,10412.87,11023.34,1.06,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100061,8,17,8,17,16486.43,32626.72,1.98,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100941,9,9,9,9,9359.49,16078.76,1.72,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100127,6,9,6,9,37985.11,22046.71,0.58,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100403,8,12,8,12,19146.35,18600.22,0.97,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100270,8,12,8,12,23155.48,13966.24,0.6,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100219,9,8,9,8,14247.09,10791.41,0.76,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100462,8,17,8,17,7272.9,41656.26,5.73,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100034,14,7,14,7,12574.71,8328.91,0.66,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100980,13,6,13,6,54312.41,33071.0,0.61,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100747,8,15,8,15,18815.93,37901.87,2.01,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100577,5,12,5,12,10417.28,37721.41,3.62,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100628,7,10,7,10,29317.58,36957.76,1.26,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100470,9,10,9,10,14173.68,24015.56,1.69,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100680,6,12,6,12,14039.91,35427.8,2.52,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100812,21,6,21,6,52064.17,28212.66,0.54,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100207,8,9,8,9,9167.47,12788.67,1.4,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100065,7,12,7,12,9991.96,37491.65,3.75,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100263,7,12,7,12,11138.34,12905.47,1.16,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100438,6,13,6,13,8875.55,37851.57,4.26,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100154,8,11,8,11,12250.9,33948.07,2.77,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100793,5,9,5,9,8583.98,14262.36,1.66,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100684,7,10,7,10,19320.16,42961.74,2.22,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100399,8,9,8,9,14113.33,29266.05,2.07,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100736,8,8,8,9,16404.02,33290.84,2.03,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100413,6,8,6,8,5248.25,12515.65,2.38,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100587,7,10,8,10,14622.71,16977.0,1.16,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100659,10,7,10,7,9152.33,20148.02,2.2,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100179,8,13,8,13,12939.65,13439.92,1.04,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100786,8,9,8,9,18425.38,33795.03,1.83,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100920,8,9,8,9,16850.44,10232.6,0.61,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100456,9,8,9,8,15478.77,26491.77,1.71,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100811,9,8,10,8,8179.06,8766.66,1.07,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100513,8,10,8,10,9616.26,11207.28,1.17,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100953,9,9,9,9,13979.62,23017.25,1.65,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100476,6,10,6,10,9176.08,26256.36,2.86,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100272,10,7,10,7,15613.05,18506.29,1.19,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100593,8,10,8,10,8675.22,27496.14,3.17,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100834,9,9,9,9,7712.99,24927.15,3.23,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100855,9,14,9,15,15736.09,21111.85,1.34,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100804,9,8,9,8,11410.5,13768.42,1.21,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100522,9,9,9,9,17099.65,11910.75,0.7,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100337,5,8,5,8,3113.52,16027.64,5.15,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100314,8,13,8,13,18484.6,33997.56,1.84,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100277,9,8,9,8,13740.15,25160.65,1.83,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100858,7,11,7,11,25201.6,21740.81,0.86,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100453,8,9,8,9,16653.67,45884.5,2.76,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100611,8,12,8,12,7940.87,36079.44,4.54,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100643,7,11,7,11,6878.86,23994.77,3.49,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100828,9,10,9,10,25460.36,26717.35,1.05,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100182,8,14,8,14,11245.37,27963.73,2.49,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100568,11,7,11,7,14563.23,22061.39,1.51,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100384,7,11,7,11,19195.53,37679.94,1.96,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100482,8,12,8,12,14926.67,26172.52,1.75,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100601,12,7,12,7,22643.23,22039.34,0.97,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100354,14,4,14,4,25142.56,25755.27,1.02,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100175,16,7,16,7,15529.99,17552.48,1.13,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100310,6,14,6,15,18271.92,18176.4,0.99,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100023,9,11,10,11,29760.94,16683.59,0.56,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100781,7,14,7,14,11704.44,44320.23,3.79,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100106,6,18,6,18,16368.6,69334.25,4.24,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100778,7,10,7,10,21945.77,36621.9,1.67,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100839,8,9,8,9,7886.87,15603.49,1.98,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100921,8,15,8,15,22447.18,31244.93,1.39,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100580,8,9,8,9,17768.24,41266.26,2.32,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100366,7,10,7,10,12450.92,21058.33,1.69,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100252,6,14,6,14,7324.52,47198.75,6.44,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100912,7,11,7,11,13773.11,34102.71,2.48,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100599,9,12,9,12,27681.96,29714.76,1.07,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100867,7,9,7,9,18124.99,10421.41,0.57,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100832,9,10,9,10,20498.54,10686.97,0.52,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100502,8,12,8,12,38919.62,25014.81,0.64,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100012,8,9,8,9,17555.77,26554.04,1.51,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100051,11,7,11,7,7493.91,21685.23,2.89,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100621,9,25,9,26,18855.53,78750.37,4.18,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100879,5,11,5,11,11535.18,27842.82,2.41,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100536,6,11,6,11,15410.78,15738.48,1.02,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100607,9,16,9,16,26810.47,15864.05,0.59,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100525,9,8,9,8,16348.64,24145.88,1.48,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100346,7,13,7,13,9009.34,35687.98,3.96,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100374,6,10,6,10,17082.98,22321.08,1.31,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100975,8,20,8,20,15910.92,38559.72,2.42,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100218,8,15,8,15,5962.57,52823.9,8.86,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100487,6,16,6,16,22793.24,68751.61,3.02,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100320,9,10,9,11,17750.62,23689.26,1.33,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100427,10,6,10,6,11423.27,6938.15,0.61,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100195,10,6,10,6,14431.14,17059.88,1.18,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100385,7,11,7,11,28945.5,16423.23,0.57,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100477,6,11,6,11,6477.19,30198.73,4.66,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100225,7,10,7,10,11336.02,36875.68,3.25,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100916,11,7,11,7,15288.07,11211.75,0.73,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100001,7,14,7,14,5415.86,31981.57,5.91,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100442,8,10,8,10,11027.22,35978.99,3.26,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100836,8,12,8,12,18417.75,28330.79,1.54,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100818,8,11,8,11,18409.39,26785.89,1.46,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100553,8,14,8,14,14047.91,37044.27,2.64,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100931,8,12,8,13,26678.91,33263.04,1.25,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100377,7,11,7,11,13474.89,13442.64,1.0,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100866,7,8,7,8,5664.35,10418.32,1.84,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100567,7,9,7,9,44180.41,22545.83,0.51,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100429,10,6,11,6,39453.02,22579.51,0.57,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100537,12,6,12,6,34863.16,17445.19,0.5,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100551,9,11,9,11,15495.97,25516.77,1.65,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100872,7,8,7,8,19244.04,39092.13,2.03,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100213,9,9,9,9,9163.63,9463.16,1.03,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100168,9,11,9,11,23039.87,34688.55,1.51,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100246,9,14,9,14,22824.58,58376.18,2.56,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100883,7,9,7,9,41083.13,22776.93,0.55,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100244,8,8,8,8,11281.39,22669.49,2.01,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100269,5,11,5,11,6007.53,31380.29,5.22,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100863,9,12,9,12,15120.12,20921.36,1.38,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100817,7,13,7,13,7638.56,12065.54,1.58,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100111,8,10,8,10,26958.36,21908.4,0.81,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100286,9,9,9,9,15486.72,9502.56,0.61,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100176,13,7,13,7,9919.49,6055.52,0.61,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100278,13,7,13,7,11385.51,23716.02,2.08,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100267,9,14,9,14,11369.19,26149.65,2.3,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100174,6,11,6,11,14601.65,30929.07,2.12,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100609,8,8,8,8,20554.01,23011.04,1.12,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100662,7,13,7,13,19074.32,13820.92,0.72,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100762,9,12,9,12,15513.16,17638.81,1.14,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100275,12,7,12,7,19443.08,9743.75,0.5,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100355,9,8,9,8,12102.38,11690.63,0.97,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100330,9,14,9,14,29418.33,37617.99,1.28,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100416,9,9,9,9,21624.1,13852.64,0.64,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100309,7,11,7,12,9103.25,17133.85,1.88,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100208,7,12,7,12,12958.77,17173.94,1.33,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100333,6,8,6,8,11862.76,29283.79,2.47,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100254,9,13,9,13,23115.2,33164.19,1.43,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100950,5,10,5,10,6986.36,31149.07,4.46,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100634,7,11,7,11,10946.98,17870.17,1.63,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100311,7,10,7,10,9566.12,17575.52,1.84,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100575,8,17,8,17,15751.08,58600.15,3.72,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100561,11,4,11,4,12581.18,19579.93,1.56,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100739,9,14,9,14,14574.2,23454.53,1.61,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100467,9,14,9,15,24108.39,35203.66,1.46,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100693,10,6,10,6,13845.3,7424.57,0.54,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100031,9,14,9,14,27815.83,37220.99,1.34,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100389,8,10,8,10,23347.75,36794.99,1.58,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100892,7,11,7,11,14012.41,24313.27,1.74,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100725,9,12,9,12,16954.38,13483.38,0.8,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100292,10,7,10,7,17701.9,37214.44,2.1,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100285,7,11,7,11,5336.22,18995.72,3.56,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100919,7,13,7,13,10958.21,82395.87,7.52,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100765,7,8,7,8,4628.56,14940.79,3.23,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100200,9,16,9,16,12190.37,31689.68,2.6,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100901,7,10,7,10,15190.93,44600.22,2.94,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100067,8,9,8,9,29111.27,19004.37,0.65,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100636,8,14,9,14,26032.39,37333.39,1.43,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100486,5,8,5,8,15915.46,10206.36,0.64,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100721,6,11,6,11,7080.21,12514.28,1.77,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100791,7,13,8,14,28529.61,84875.32,2.97,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100156,10,7,10,7,17508.89,27293.64,1.56,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100550,9,12,9,12,14074.48,28875.72,2.05,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100347,5,11,5,11,8060.82,22134.83,2.75,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100109,7,13,7,13,16666.51,16397.33,0.98,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100158,8,12,8,12,4263.48,17345.94,4.07,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100620,7,13,7,13,12252.56,30532.04,2.49,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100497,7,9,7,9,25006.86,12661.29,0.51,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100131,16,4,16,4,21865.08,21626.58,0.99,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100794,7,15,7,15,14284.02,37572.0,2.63,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100742,9,12,9,12,9109.45,65501.43,7.19,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100907,17,6,17,6,27333.18,19000.2,0.7,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100436,9,13,9,13,7882.29,39536.66,5.02,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100338,11,7,11,7,13728.49,25370.43,1.85,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100321,9,15,9,15,11709.98,38351.65,3.28,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100437,12,7,12,7,24327.58,25778.84,1.06,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100889,9,10,9,10,16940.61,29644.59,1.75,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100873,9,13,9,13,8900.95,20254.14,2.28,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100626,6,8,6,8,25298.61,46668.68,1.84,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100056,9,8,9,8,24157.08,23123.91,0.96,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100934,7,8,7,8,12767.88,14880.47,1.17,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100906,8,13,8,13,16782.61,45262.86,2.7,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100633,11,6,11,6,25335.12,14377.95,0.57,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100557,9,12,9,12,11708.7,34485.97,2.95,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100090,7,10,7,11,15068.87,21237.05,1.41,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100914,8,13,8,13,12767.65,26766.08,2.1,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100549,11,7,11,8,14907.31,23476.0,1.57,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100780,9,10,9,11,11638.04,33334.02,2.86,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100189,7,11,7,11,9523.56,16848.56,1.77,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100582,5,11,5,11,17461.58,26257.93,1.5,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100305,8,11,8,11,13995.06,53979.11,3.86,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100073,6,12,6,12,14857.93,39320.13,2.65,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100302,6,9,6,9,9860.4,10680.86,1.08,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100881,8,14,8,14,19042.99,44746.65,2.35,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100751,6,15,6,15,14365.9,104100.01,7.25,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100319,9,9,9,9,22135.75,18783.89,0.85,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100376,8,9,8,9,16321.45,47752.76,2.93,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100050,10,6,10,6,16987.8,10002.94,0.59,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100666,9,9,9,9,18774.96,27586.56,1.47,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100364,6,14,6,14,18839.79,74731.29,3.97,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100121,9,10,9,10,9309.04,11092.16,1.19,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100008,9,9,9,9,11224.13,13749.46,1.22,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100128,10,7,10,7,27000.34,24561.73,0.91,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100792,9,9,9,9,22803.59,29609.21,1.3,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100282,11,6,11,6,24814.02,12972.48,0.52,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100308,7,9,7,9,8499.59,22044.5,2.59,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100332,7,12,7,12,6878.86,44874.94,6.52,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100979,9,9,9,9,9897.12,12026.55,1.22,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100496,7,12,7,12,10430.7,47193.55,4.52,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100380,5,16,5,16,3636.78,36850.42,10.13,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100508,5,17,5,17,8661.64,43279.25,5.0,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100823,8,11,8,11,19577.12,15900.58,0.81,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100159,9,11,9,11,14125.39,53034.54,3.75,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100554,8,8,8,8,10996.32,17991.77,1.64,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100656,8,8,8,8,9809.71,19364.37,1.97,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100024,9,13,9,13,13285.99,34587.32,2.6,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100637,5,11,5,11,4090.95,18763.46,4.59,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100383,8,12,8,12,10694.62,33425.5,3.13,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100526,11,7,11,7,14728.31,7694.13,0.52,0,45,MEDIUM,10+ incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100232,9,11,9,11,11770.63,13865.02,1.18,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100627,9,8,9,8,14130.53,46780.75,3.31,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100455,7,10,7,10,8920.24,31694.51,3.55,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100134,7,9,7,9,11717.83,17468.72,1.49,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100691,6,8,6,8,17562.75,22233.91,1.27,0,45,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Potential intermediary account
+ACC100451,12,12,13,12,71504.44,23411.22,0.33,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100162,13,10,13,10,38721.82,14188.66,0.37,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100235,11,8,11,8,93854.48,38869.67,0.41,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100334,13,9,13,9,43898.71,14702.42,0.33,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100542,12,8,12,8,58761.37,7483.17,0.13,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100947,16,11,17,11,75459.27,17327.83,0.23,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100417,17,9,17,9,48521.18,17643.86,0.36,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100761,11,8,11,8,26274.45,10034.65,0.38,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100209,13,8,13,8,63556.31,30844.45,0.49,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100452,11,12,11,12,37506.93,12867.25,0.34,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100425,13,11,13,11,35337.11,15085.02,0.43,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100996,16,8,16,8,131774.21,14550.54,0.11,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100997,15,8,15,8,91776.47,40377.84,0.44,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100428,10,13,10,13,35652.52,16055.4,0.45,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100190,17,11,17,11,47285.02,12466.77,0.26,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100870,16,8,16,8,145519.79,40152.11,0.28,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100971,13,8,13,8,25680.54,9196.67,0.36,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100478,10,9,10,9,44017.93,19794.78,0.45,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100899,14,9,14,9,36782.0,11534.49,0.31,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100119,16,8,16,8,34048.77,9323.45,0.27,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100752,14,11,14,11,35125.09,16149.91,0.46,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100098,10,14,10,14,92275.77,17339.9,0.19,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100702,18,11,18,11,63632.29,24668.86,0.39,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100516,12,8,12,8,20237.54,9899.06,0.49,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100590,13,10,13,10,53544.56,22517.55,0.42,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100260,13,8,13,8,33529.92,10042.97,0.3,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100797,13,10,13,10,30912.22,8216.53,0.27,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100769,11,10,11,10,35922.69,10713.8,0.3,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100289,11,16,11,16,101460.76,30145.36,0.3,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100570,13,9,13,9,102073.85,26297.2,0.26,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100990,10,10,10,11,69750.23,34551.26,0.5,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100392,11,11,11,11,30307.79,11538.59,0.38,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100441,12,11,12,11,19121.91,7847.37,0.41,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100444,15,8,15,8,27668.97,12264.91,0.44,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100596,14,8,14,9,58213.81,23820.04,0.41,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100576,12,10,12,10,36997.8,13680.63,0.37,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100757,19,14,19,15,47753.12,21668.88,0.45,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100017,13,9,13,9,19339.67,9458.13,0.49,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100651,13,10,13,10,28327.88,12741.52,0.45,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100202,12,10,12,10,31328.35,14121.34,0.45,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100214,12,9,12,9,26524.89,4517.45,0.17,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100042,12,11,12,11,126939.1,49599.2,0.39,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100133,14,8,14,8,107567.43,16367.5,0.15,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100910,16,15,17,15,35217.26,15896.02,0.45,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100396,11,12,11,12,35219.86,9100.65,0.26,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100249,11,9,12,9,43533.07,19688.8,0.45,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100463,13,11,13,11,130259.84,20284.25,0.16,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100955,10,8,10,8,57710.78,18053.52,0.31,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100185,14,15,14,15,136709.69,23799.2,0.17,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100011,12,8,12,8,56525.55,7432.24,0.13,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100304,10,8,10,8,26812.23,7596.48,0.28,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100099,10,12,10,12,62100.88,14039.5,0.23,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100658,10,8,10,8,124338.47,13666.71,0.11,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100426,12,14,12,14,137381.28,26034.09,0.19,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100266,14,12,14,12,36550.52,17813.64,0.49,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100136,9,8,9,8,22538.79,9079.88,0.4,1,40,MEDIUM,Multiple incoming counterparties | 8+ outgoing counterparties | Rapid incoming-to-outgoing movement
+ACC100397,11,12,11,12,26871.09,10911.7,0.41,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100993,11,9,11,9,108762.89,21965.71,0.2,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100423,17,10,17,10,56006.5,14444.62,0.26,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100965,11,12,11,12,26336.27,10432.78,0.4,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100745,11,11,11,11,64446.47,26448.63,0.41,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100500,11,12,11,12,28474.3,11850.13,0.42,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100199,12,9,12,10,27259.1,12736.04,0.47,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100276,13,10,13,10,50890.77,10963.7,0.22,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100014,13,9,13,9,124183.58,21744.37,0.18,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100789,10,9,10,9,25511.18,11569.4,0.45,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100132,12,10,12,10,49893.59,13311.92,0.27,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100619,10,10,10,10,26166.73,11749.43,0.45,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100036,10,9,10,9,29333.27,14441.23,0.49,0,40,MEDIUM,10+ incoming counterparties | 8+ outgoing counterparties
+ACC100845,7,7,7,7,11022.86,12885.71,1.17,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100927,5,5,5,5,8024.87,7607.01,0.95,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100946,8,6,8,6,5670.57,9500.0,1.68,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100900,8,6,8,6,13255.99,22009.04,1.66,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100905,9,7,10,7,9078.13,10395.78,1.15,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100245,7,6,7,6,18808.61,19908.77,1.06,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100148,9,4,9,4,11979.25,9706.37,0.81,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100424,8,7,8,7,23083.35,13383.96,0.58,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100744,9,5,9,5,9914.63,13204.16,1.33,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100037,9,7,9,7,10459.02,16355.91,1.56,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100144,9,7,9,7,15939.57,11016.2,0.69,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100091,5,7,5,7,6681.82,20629.59,3.09,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100528,6,5,6,5,9868.81,8519.95,0.86,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100188,6,7,6,7,10515.05,8410.84,0.8,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100351,8,7,8,7,20640.8,17399.89,0.84,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100211,9,7,10,7,20275.21,11299.09,0.56,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100395,8,7,8,7,29817.03,19988.83,0.67,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100484,7,7,7,7,11905.62,34815.77,2.92,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100924,5,7,5,7,5371.85,7740.1,1.44,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100896,5,7,5,7,3744.56,11546.15,3.08,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100821,8,6,9,6,18743.51,15960.54,0.85,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100458,8,6,8,6,6330.94,19828.24,3.13,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100063,7,6,7,6,14353.01,20942.37,1.46,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100985,8,5,8,5,17451.58,18680.4,1.07,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100530,8,7,8,7,8405.81,28693.13,3.41,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100230,9,7,9,7,14040.88,26568.51,1.89,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100504,9,6,9,6,18762.7,11418.26,0.61,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100562,9,4,9,4,20635.38,17145.27,0.83,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100035,6,7,6,7,8359.46,6667.98,0.8,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100125,7,5,7,5,7598.42,10164.51,1.34,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100071,9,6,9,6,11387.58,17089.69,1.5,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100299,9,6,9,6,15983.81,16876.42,1.06,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100951,6,7,6,7,7585.48,13365.18,1.76,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100544,8,7,8,7,19715.21,25161.18,1.28,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100040,9,5,9,5,12214.34,11733.21,0.96,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100264,8,6,8,6,15798.73,9325.1,0.59,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100729,9,6,9,6,12632.82,41885.16,3.32,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100555,8,7,8,7,12812.78,11617.17,0.91,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100893,7,7,7,7,16801.01,19286.7,1.15,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100688,7,7,7,7,9126.78,11385.58,1.25,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100942,7,7,7,7,9456.74,39943.08,4.22,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100153,5,6,5,6,3197.68,22245.68,6.96,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100336,9,7,9,7,18386.71,26327.64,1.43,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100242,6,6,6,6,10359.53,9438.54,0.91,0,35,LOW,Multiple incoming counterparties | Multiple outgoing counterparties | Potential intermediary account
+ACC100191,9,9,9,9,31218.64,13868.16,0.44,0,30,LOW,Multiple incoming counterparties | 8+ outgoing counterparties
+ACC100326,15,7,15,7,25186.55,9237.73,0.37,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100586,13,6,13,6,34001.73,8472.87,0.25,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100970,13,6,13,6,81105.91,10335.45,0.13,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100045,13,4,13,4,25054.52,3718.78,0.15,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100262,8,10,8,10,18759.31,9318.65,0.5,0,30,LOW,Multiple incoming counterparties | 8+ outgoing counterparties
+ACC100802,8,10,8,10,24513.45,9911.88,0.4,0,30,LOW,Multiple incoming counterparties | 8+ outgoing counterparties
+ACC100595,6,9,6,9,101902.13,21487.23,0.21,0,30,LOW,Multiple incoming counterparties | 8+ outgoing counterparties
+ACC100233,14,7,14,7,39610.7,11884.87,0.3,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100409,12,7,12,7,87113.89,16772.32,0.19,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100055,11,6,11,6,24445.96,7382.06,0.3,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100545,12,6,12,6,30208.1,2274.02,0.08,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100466,6,14,6,14,83593.5,27674.31,0.33,0,30,LOW,Multiple incoming counterparties | 8+ outgoing counterparties
+ACC100890,9,9,9,9,20270.13,9380.23,0.46,0,30,LOW,Multiple incoming counterparties | 8+ outgoing counterparties
+ACC100433,10,6,10,6,39869.91,14295.34,0.36,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100904,14,7,14,7,25154.4,8455.32,0.34,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100187,9,9,9,9,71299.76,17099.59,0.24,0,30,LOW,Multiple incoming counterparties | 8+ outgoing counterparties
+ACC100343,7,10,7,10,28616.96,12846.69,0.45,0,30,LOW,Multiple incoming counterparties | 8+ outgoing counterparties
+ACC100112,17,6,17,6,41009.26,3358.75,0.08,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100690,14,7,14,7,42352.07,8459.69,0.2,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100687,18,6,18,6,57123.52,14257.49,0.25,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100521,8,8,8,8,39118.01,9379.0,0.24,0,30,LOW,Multiple incoming counterparties | 8+ outgoing counterparties
+ACC100141,5,9,6,9,21800.27,10592.98,0.49,0,30,LOW,Multiple incoming counterparties | 8+ outgoing counterparties
+ACC100696,17,4,17,4,41988.85,4688.08,0.11,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100352,9,9,9,9,134271.2,20255.92,0.15,0,30,LOW,Multiple incoming counterparties | 8+ outgoing counterparties
+ACC100079,10,7,10,7,28459.37,13102.13,0.46,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100639,15,7,15,7,52264.62,10526.32,0.2,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100894,10,7,10,7,49177.69,3884.8,0.08,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100184,14,5,14,5,37406.47,11183.79,0.3,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100448,13,7,14,7,152005.76,33415.83,0.22,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100475,14,6,14,6,21987.85,6495.29,0.3,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100088,11,4,11,4,29524.05,2268.33,0.08,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100717,6,11,6,11,130544.04,23293.43,0.18,0,30,LOW,Multiple incoming counterparties | 8+ outgoing counterparties
+ACC100227,12,6,12,6,40717.36,7290.39,0.18,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100075,10,5,10,5,167744.5,21107.92,0.13,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100353,11,6,11,6,20179.58,5960.02,0.3,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100160,12,6,12,6,55698.55,9107.15,0.16,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100868,10,7,10,7,39170.35,3715.71,0.09,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100053,10,7,10,7,42581.78,9172.46,0.22,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100371,12,5,12,5,24570.17,11278.88,0.46,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100234,7,10,7,10,128284.83,36226.69,0.28,0,30,LOW,Multiple incoming counterparties | 8+ outgoing counterparties
+ACC100572,12,5,12,5,51656.66,3909.25,0.08,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100161,7,12,7,12,35401.89,12409.34,0.35,0,30,LOW,Multiple incoming counterparties | 8+ outgoing counterparties
+ACC100760,17,7,17,7,40870.74,12410.56,0.3,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100694,6,8,6,8,104209.8,47447.64,0.46,0,30,LOW,Multiple incoming counterparties | 8+ outgoing counterparties
+ACC100514,17,6,17,6,55479.24,17289.57,0.31,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100273,10,6,10,6,19796.42,5879.38,0.3,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100226,16,7,16,7,97124.66,10219.57,0.11,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100884,18,5,19,5,43834.97,16155.02,0.37,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100350,7,9,7,9,29290.55,5683.72,0.19,0,30,LOW,Multiple incoming counterparties | 8+ outgoing counterparties
+ACC100944,14,5,14,5,68953.91,10825.4,0.16,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100087,7,12,7,12,96413.48,31951.3,0.33,0,30,LOW,Multiple incoming counterparties | 8+ outgoing counterparties
+ACC100173,6,9,6,9,31963.48,11769.32,0.37,0,30,LOW,Multiple incoming counterparties | 8+ outgoing counterparties
+ACC100294,13,4,13,4,20243.16,4471.47,0.22,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100960,12,4,12,4,35358.98,6929.57,0.2,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100933,8,10,8,10,146935.92,21181.3,0.14,0,30,LOW,Multiple incoming counterparties | 8+ outgoing counterparties
+ACC100469,13,7,13,7,148256.39,7288.56,0.05,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100623,11,6,12,6,33600.47,15981.64,0.48,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100838,16,5,17,5,33566.66,9777.78,0.29,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100605,15,5,15,5,26354.63,4091.98,0.16,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100471,9,10,10,10,21651.04,10689.47,0.49,0,30,LOW,Multiple incoming counterparties | 8+ outgoing counterparties
+ACC100140,10,4,10,4,30053.09,10987.94,0.37,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100533,9,8,9,8,23624.91,4788.6,0.2,0,30,LOW,Multiple incoming counterparties | 8+ outgoing counterparties
+ACC100297,9,13,9,13,50710.08,23115.02,0.46,0,30,LOW,Multiple incoming counterparties | 8+ outgoing counterparties
+ACC100661,11,7,11,7,18516.05,8017.0,0.43,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100897,14,6,14,6,16848.93,6327.02,0.38,0,30,LOW,10+ incoming counterparties | Multiple outgoing counterparties
+ACC100247,3,12,3,12,3892.87,35685.05,9.17,0,20,LOW,8+ outgoing counterparties
+ACC100809,9,6,9,6,102352.98,17679.52,0.17,0,20,LOW,Multiple incoming counterparties | Multiple outgoing counterparties
+ACC100205,4,8,4,8,5396.75,10717.58,1.99,0,20,LOW,8+ outgoing counterparties
+ACC100201,8,7,8,7,16580.36,6109.4,0.37,0,20,LOW,Multiple incoming counterparties | Multiple outgoing counterparties
+ACC100712,13,1,13,1,131778.67,1423.19,0.01,0,20,LOW,10+ incoming counterparties
+ACC100505,7,6,7,6,16967.28,8163.06,0.48,0,20,LOW,Multiple incoming counterparties | Multiple outgoing counterparties
+ACC100510,4,14,4,14,8197.53,25934.04,3.16,0,20,LOW,8+ outgoing counterparties
+ACC100999,13,3,13,3,18816.99,4797.65,0.25,0,20,LOW,10+ incoming counterparties
+ACC100259,3,14,3,14,5880.49,13335.01,2.27,0,20,LOW,8+ outgoing counterparties
+ACC100243,4,9,4,9,4436.95,49080.2,11.06,0,20,LOW,8+ outgoing counterparties
+ACC100833,4,8,4,8,13792.96,30627.1,2.22,0,20,LOW,8+ outgoing counterparties
+ACC100206,9,6,9,6,47942.89,7583.82,0.16,0,20,LOW,Multiple incoming counterparties | Multiple outgoing counterparties
+ACC100501,3,9,3,9,3908.93,13864.06,3.55,0,20,LOW,8+ outgoing counterparties
+ACC100043,8,7,8,7,27597.38,7656.22,0.28,0,20,LOW,Multiple incoming counterparties | Multiple outgoing counterparties
+ACC100077,9,5,9,5,18263.75,6818.05,0.37,0,20,LOW,Multiple incoming counterparties | Multiple outgoing counterparties
+ACC100592,6,5,6,5,13337.81,5280.52,0.4,0,20,LOW,Multiple incoming counterparties | Multiple outgoing counterparties
+ACC100019,6,7,6,7,80159.72,34251.65,0.43,0,20,LOW,Multiple incoming counterparties | Multiple outgoing counterparties
+ACC100196,9,6,9,6,20730.34,7636.59,0.37,0,20,LOW,Multiple incoming counterparties | Multiple outgoing counterparties
+ACC100803,4,11,4,11,3427.97,46303.77,13.51,0,20,LOW,8+ outgoing counterparties
+ACC100391,8,6,8,6,43020.73,19078.28,0.44,0,20,LOW,Multiple incoming counterparties | Multiple outgoing counterparties
+ACC100730,2,11,2,11,1359.79,17214.97,12.66,0,20,LOW,8+ outgoing counterparties
+ACC100771,3,16,3,16,3988.79,104829.09,26.28,0,20,LOW,8+ outgoing counterparties
+ACC100589,4,13,4,13,4622.12,34164.4,7.39,0,20,LOW,8+ outgoing counterparties
+ACC100485,3,11,3,11,4388.85,14813.8,3.38,0,20,LOW,8+ outgoing counterparties
+ACC100261,4,14,4,14,6342.6,33730.64,5.32,0,20,LOW,8+ outgoing counterparties
+ACC100287,3,10,3,10,5027.44,27467.13,5.46,0,20,LOW,8+ outgoing counterparties
+ACC100977,3,11,3,11,1988.92,15387.56,7.74,0,20,LOW,8+ outgoing counterparties
+ACC100686,8,4,8,4,8638.37,3876.06,0.45,0,20,LOW,Multiple incoming counterparties | Multiple outgoing counterparties
+ACC100810,4,12,4,12,4087.61,24439.56,5.98,0,20,LOW,8+ outgoing counterparties
+ACC100361,8,7,8,7,53013.85,19517.74,0.37,0,20,LOW,Multiple incoming counterparties | Multiple outgoing counterparties
+ACC100988,4,11,4,11,8090.4,21629.64,2.67,0,20,LOW,8+ outgoing counterparties
+ACC100241,11,3,11,3,10942.07,2309.39,0.21,0,20,LOW,10+ incoming counterparties
+ACC100749,7,7,7,7,21461.86,9875.2,0.46,0,20,LOW,Multiple incoming counterparties | Multiple outgoing counterparties
+ACC100004,3,19,3,19,3347.0,32348.55,9.66,0,20,LOW,8+ outgoing counterparties
+ACC100610,3,8,3,8,2419.34,12020.27,4.97,0,20,LOW,8+ outgoing counterparties
+ACC100503,8,4,8,4,16041.84,4612.07,0.29,0,20,LOW,Multiple incoming counterparties | Multiple outgoing counterparties
+ACC100923,10,2,10,2,13380.49,3984.79,0.3,0,20,LOW,10+ incoming counterparties
+ACC100874,9,5,9,5,12858.0,3841.4,0.3,0,20,LOW,Multiple incoming counterparties | Multiple outgoing counterparties
+ACC100968,9,7,9,7,28054.8,13206.56,0.47,0,20,LOW,Multiple incoming counterparties | Multiple outgoing counterparties
+ACC100709,16,3,16,3,21412.69,10537.11,0.49,0,20,LOW,10+ incoming counterparties
+ACC100324,9,4,10,4,44138.83,3813.79,0.09,0,20,LOW,Multiple incoming counterparties | Multiple outgoing counterparties
+ACC100538,3,16,3,16,3590.12,26238.71,7.31,0,20,LOW,8+ outgoing counterparties
+ACC100443,7,4,7,4,21956.88,10439.79,0.48,0,20,LOW,Multiple incoming counterparties | Multiple outgoing counterparties
+ACC100480,8,6,8,6,21470.63,6206.84,0.29,0,20,LOW,Multiple incoming counterparties | Multiple outgoing counterparties
+ACC100840,9,6,9,6,17159.24,2834.16,0.17,0,20,LOW,Multiple incoming counterparties | Multiple outgoing counterparties
+ACC100495,8,6,8,6,14159.13,4667.83,0.33,0,20,LOW,Multiple incoming counterparties | Multiple outgoing counterparties
+ACC100339,10,3,10,3,29875.88,2274.5,0.08,0,20,LOW,10+ incoming counterparties
+ACC100603,4,9,4,9,6561.18,14765.62,2.25,0,20,LOW,8+ outgoing counterparties
+ACC100509,12,3,12,3,9345.8,3195.37,0.34,0,20,LOW,10+ incoming counterparties
+ACC100987,5,5,5,5,11233.63,5529.24,0.49,0,20,LOW,Multiple incoming counterparties | Multiple outgoing counterparties
+ACC100231,7,6,7,6,25607.22,4786.67,0.19,0,20,LOW,Multiple incoming counterparties | Multiple outgoing counterparties
+ACC100772,2,12,2,12,5928.31,21703.92,3.66,0,20,LOW,8+ outgoing counterparties
+ACC100178,5,6,5,6,19667.5,8656.74,0.44,0,20,LOW,Multiple incoming counterparties | Multiple outgoing counterparties
+ACC100822,4,9,4,9,15910.93,20195.05,1.27,0,20,LOW,8+ outgoing counterparties
+ACC100925,3,10,3,10,17211.79,26001.72,1.51,0,20,LOW,8+ outgoing counterparties
+ACC100976,4,8,4,8,3694.12,17397.68,4.71,0,20,LOW,8+ outgoing counterparties
+ACC100198,4,15,4,15,5594.54,34199.02,6.11,0,20,LOW,8+ outgoing counterparties
+ACC100785,4,7,4,7,3862.67,21563.34,5.58,0,10,LOW,Multiple outgoing counterparties
+ACC100731,4,7,4,7,4352.04,29882.98,6.87,0,10,LOW,Multiple outgoing counterparties
+ACC100540,7,2,7,2,13030.18,13062.95,1.0,0,10,LOW,Multiple incoming counterparties
+ACC100963,4,7,4,7,3986.69,16024.64,4.02,0,10,LOW,Multiple outgoing counterparties
+ACC100657,2,7,2,7,11585.62,35709.39,3.08,0,10,LOW,Multiple outgoing counterparties
+ACC100740,4,7,4,7,3281.57,15055.88,4.59,0,10,LOW,Multiple outgoing counterparties
+ACC100439,7,1,7,1,20986.61,326.43,0.02,0,10,LOW,Multiple incoming counterparties
